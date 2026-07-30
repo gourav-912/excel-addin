@@ -1,1 +1,5 @@
-import "./excel";
+Office.onReady(() => {
+
+    console.log("Office Ready");
+
+});
